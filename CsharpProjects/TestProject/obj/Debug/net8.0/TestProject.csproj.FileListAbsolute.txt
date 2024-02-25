@@ -1,0 +1,14 @@
+D:\M2023\OneDrive\文档\VSCode\CsharpProjects\TestProject\bin\Debug\net8.0\TestProject.exe
+D:\M2023\OneDrive\文档\VSCode\CsharpProjects\TestProject\bin\Debug\net8.0\TestProject.deps.json
+D:\M2023\OneDrive\文档\VSCode\CsharpProjects\TestProject\bin\Debug\net8.0\TestProject.runtimeconfig.json
+D:\M2023\OneDrive\文档\VSCode\CsharpProjects\TestProject\bin\Debug\net8.0\TestProject.dll
+D:\M2023\OneDrive\文档\VSCode\CsharpProjects\TestProject\bin\Debug\net8.0\TestProject.pdb
+D:\M2023\OneDrive\文档\VSCode\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\M2023\OneDrive\文档\VSCode\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.AssemblyInfoInputs.cache
+D:\M2023\OneDrive\文档\VSCode\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.AssemblyInfo.cs
+D:\M2023\OneDrive\文档\VSCode\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.csproj.CoreCompileInputs.cache
+D:\M2023\OneDrive\文档\VSCode\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.dll
+D:\M2023\OneDrive\文档\VSCode\CsharpProjects\TestProject\obj\Debug\net8.0\refint\TestProject.dll
+D:\M2023\OneDrive\文档\VSCode\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.pdb
+D:\M2023\OneDrive\文档\VSCode\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.genruntimeconfig.cache
+D:\M2023\OneDrive\文档\VSCode\CsharpProjects\TestProject\obj\Debug\net8.0\ref\TestProject.dll
