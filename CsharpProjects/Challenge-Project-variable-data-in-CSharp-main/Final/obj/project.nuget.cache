@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ChMtmJgLktARE9CxXxFuwRQz5zXA6zSjMOlW1YLJkcYOBs/TfR/Mw6kUR6hJ1qsFBRRwdcgZu9Pqzm9QbNzRFA==",
+  "dgSpecHash": "W1ZEfBhFgjYDxhVOKFEmvyFdGPSDeqSs26/25JyXhCLqaMSbO+ixKwDly+XFs67/5tzw5YeLrKPHzykGjgXuTQ==",
   "success": true,
   "projectFilePath": "D:\\M2023\\OneDrive\\文档\\VSCode\\CsharpProjects\\Challenge-Project-variable-data-in-CSharp-main\\Final\\Final.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\M2023\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.15\\microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
-    "C:\\Users\\M2023\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.15\\microsoft.windowsdesktop.app.ref.7.0.15.nupkg.sha512",
-    "C:\\Users\\M2023\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.15\\microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512",
-    "C:\\Users\\M2023\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.15\\microsoft.netcore.app.host.win-x64.7.0.15.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
