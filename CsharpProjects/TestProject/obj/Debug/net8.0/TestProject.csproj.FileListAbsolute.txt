@@ -12,3 +12,4 @@ D:\M2023\OneDrive\文档\VSCode\CsharpProjects\TestProject\obj\Debug\net8.0\refi
 D:\M2023\OneDrive\文档\VSCode\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.pdb
 D:\M2023\OneDrive\文档\VSCode\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.genruntimeconfig.cache
 D:\M2023\OneDrive\文档\VSCode\CsharpProjects\TestProject\obj\Debug\net8.0\ref\TestProject.dll
+D:\M2023\OneDrive\文档\VSCode\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.sourcelink.json
