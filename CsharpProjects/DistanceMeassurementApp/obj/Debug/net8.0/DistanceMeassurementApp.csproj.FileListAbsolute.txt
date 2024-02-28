@@ -1,0 +1,15 @@
+D:\M2023\OneDrive\文档\VSCode\CsharpProjects\DistanceMeassurementApp\bin\Debug\net8.0\DistanceMeassurementApp.exe
+D:\M2023\OneDrive\文档\VSCode\CsharpProjects\DistanceMeassurementApp\bin\Debug\net8.0\DistanceMeassurementApp.deps.json
+D:\M2023\OneDrive\文档\VSCode\CsharpProjects\DistanceMeassurementApp\bin\Debug\net8.0\DistanceMeassurementApp.runtimeconfig.json
+D:\M2023\OneDrive\文档\VSCode\CsharpProjects\DistanceMeassurementApp\bin\Debug\net8.0\DistanceMeassurementApp.dll
+D:\M2023\OneDrive\文档\VSCode\CsharpProjects\DistanceMeassurementApp\bin\Debug\net8.0\DistanceMeassurementApp.pdb
+D:\M2023\OneDrive\文档\VSCode\CsharpProjects\DistanceMeassurementApp\obj\Debug\net8.0\DistanceMeassurementApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\M2023\OneDrive\文档\VSCode\CsharpProjects\DistanceMeassurementApp\obj\Debug\net8.0\DistanceMeassurementApp.AssemblyInfoInputs.cache
+D:\M2023\OneDrive\文档\VSCode\CsharpProjects\DistanceMeassurementApp\obj\Debug\net8.0\DistanceMeassurementApp.AssemblyInfo.cs
+D:\M2023\OneDrive\文档\VSCode\CsharpProjects\DistanceMeassurementApp\obj\Debug\net8.0\DistanceMeassurementApp.csproj.CoreCompileInputs.cache
+D:\M2023\OneDrive\文档\VSCode\CsharpProjects\DistanceMeassurementApp\obj\Debug\net8.0\DistanceMeassurementApp.sourcelink.json
+D:\M2023\OneDrive\文档\VSCode\CsharpProjects\DistanceMeassurementApp\obj\Debug\net8.0\DistanceMeassurementApp.dll
+D:\M2023\OneDrive\文档\VSCode\CsharpProjects\DistanceMeassurementApp\obj\Debug\net8.0\refint\DistanceMeassurementApp.dll
+D:\M2023\OneDrive\文档\VSCode\CsharpProjects\DistanceMeassurementApp\obj\Debug\net8.0\DistanceMeassurementApp.pdb
+D:\M2023\OneDrive\文档\VSCode\CsharpProjects\DistanceMeassurementApp\obj\Debug\net8.0\DistanceMeassurementApp.genruntimeconfig.cache
+D:\M2023\OneDrive\文档\VSCode\CsharpProjects\DistanceMeassurementApp\obj\Debug\net8.0\ref\DistanceMeassurementApp.dll

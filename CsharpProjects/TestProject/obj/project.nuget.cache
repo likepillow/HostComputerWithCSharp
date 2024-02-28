@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "HM2HlPd1GTT9zk+wPqZvEK5TRHunv5ZwKMEPBwrKbUK5MSAw4MYsg+6YdB7ZjuilOlkz7ubx1th/p9/wQsYA9g==",
+  "dgSpecHash": "rt9X1uOXiJSrtqQjxtRYVE1SSf26wDDwpoLgVZLx21HiHXIMb9nPMFpfJycHGWLwDZLsB5OHY4xM5O2GOyK1ow==",
   "success": true,
   "projectFilePath": "D:\\M2023\\OneDrive\\文档\\VSCode\\CsharpProjects\\TestProject\\TestProject.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\M2023\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "C:\\Users\\M2023\\.nuget\\packages\\system.drawing.common\\8.0.2\\system.drawing.common.8.0.2.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\M2023\\OneDrive\\文档\\VSCode\\CsharpProjects\\TestProject\\TestProject.csproj": {}
+    "D:\\M2023\\OneDrive\\文档\\VSCode\\CsharpProjects\\DistanceMeassurementApp\\DistanceMeassurementApp.csproj": {}
   },
   "projects": {
-    "D:\\M2023\\OneDrive\\文档\\VSCode\\CsharpProjects\\TestProject\\TestProject.csproj": {
+    "D:\\M2023\\OneDrive\\文档\\VSCode\\CsharpProjects\\DistanceMeassurementApp\\DistanceMeassurementApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\M2023\\OneDrive\\文档\\VSCode\\CsharpProjects\\TestProject\\TestProject.csproj",
-        "projectName": "TestProject",
-        "projectPath": "D:\\M2023\\OneDrive\\文档\\VSCode\\CsharpProjects\\TestProject\\TestProject.csproj",
+        "projectUniqueName": "D:\\M2023\\OneDrive\\文档\\VSCode\\CsharpProjects\\DistanceMeassurementApp\\DistanceMeassurementApp.csproj",
+        "projectName": "DistanceMeassurementApp",
+        "projectPath": "D:\\M2023\\OneDrive\\文档\\VSCode\\CsharpProjects\\DistanceMeassurementApp\\DistanceMeassurementApp.csproj",
         "packagesPath": "C:\\Users\\M2023\\.nuget\\packages\\",
-        "outputPath": "D:\\M2023\\OneDrive\\文档\\VSCode\\CsharpProjects\\TestProject\\obj\\",
+        "outputPath": "D:\\M2023\\OneDrive\\文档\\VSCode\\CsharpProjects\\DistanceMeassurementApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\M2023\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -37,12 +37,6 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "dependencies": {
-            "System.Drawing.Common": {
-              "target": "Package",
-              "version": "[8.0.2, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",

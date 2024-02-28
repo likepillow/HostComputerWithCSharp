@@ -1,26 +1,64 @@
-﻿string customerName = "Ms. Barros";
+﻿using System;
 
-string currentProduct = "Magic Yield";
-int currentShares = 2975000;
-decimal currentReturn = 0.1275m;
-decimal currentProfit = 55000000.0m;
+string[] pettingZoo =
+{
+    "alpacas", "capybaras", "chickens", "ducks", "emus", "geese",
+    "goats", "iguanas", "kangaroos", "lemurs", "llamas", "macaws",
+    "ostriches", "pigs", "ponies", "rabbits", "sheep", "tortoises",
+};
 
-string newProduct = "Glorious Future";
-decimal newReturn = 0.13125m;
-decimal newProfit = 63000000.0m;
+PlanSchoolVisit("School A");
+PlanSchoolVisit("School B", 3);
+PlanSchoolVisit("School C", 2);
 
-Console.WriteLine($"Dear {customerName},");
-Console.WriteLine($"As a customer of our {currentProduct} offering we are excited to tell you about a new financial product that would dramatically increase your return.");
-Console.WriteLine();
-Console.WriteLine($"Currently, you own {currentShares:N2} shares at a return of {currentReturn:P2}.");
-Console.WriteLine();
-Console.WriteLine($"Our new product, {newProduct} offers a return of {newReturn:P2}.  Given your current volume, your potential profit would be {newProfit:C2}.");
-Console.WriteLine();
+void PlanSchoolVisit(string schoolName, int groups = 6)
+{
+    RandomizeAnimals();
+    string[,] group = AssignGroup(groups);
+    Console.WriteLine(schoolName);
+    PrintGroup(group);
+}
 
-Console.WriteLine("Here's a quick comparison:\n");
+void RandomizeAnimals()
+{
+    Random random = new Random();
 
-string comparisonMessage = "";
+    for (int i = 0; i < pettingZoo.Length; i++)
+    {
+        int r = random.Next(i, pettingZoo.Length);
 
-comparisonMessage = currentProduct.PadRight(20) + $"{currentReturn:P2}".PadRight(10) + $"{currentProfit:C2}".PadRight(20) + "\n" + newProduct.PadRight(20) + $"{newReturn:P2}".PadRight(10) + $"{newProfit:C2}".PadRight(20);
+        string temp = pettingZoo[i];
+        pettingZoo[i] = pettingZoo[r];
+        pettingZoo[r] = temp;
+    }
+}
 
-Console.WriteLine(comparisonMessage);
+string[,] AssignGroup(int groups = 6)
+{
+    string[,] result = new string[groups, pettingZoo.Length / groups];
+
+    int start = 0;
+
+    for (int i = 0; i < groups; i++)
+    {
+        for (int j = 0; j < result.GetLength(1); j++)
+        {
+            result[i, j] = pettingZoo[start++];
+        }
+    }
+
+    return result;
+}
+
+void PrintGroup(string[,] group) 
+{
+    for (int i = 0; i < group.GetLength(0); i++) 
+    {
+        Console.Write($"Group {i + 1}: ");
+        for (int j = 0; j < group.GetLength(1); j++) 
+        {
+            Console.Write($"{group[i,j]}  ");
+        }
+        Console.WriteLine();
+    }
+}
