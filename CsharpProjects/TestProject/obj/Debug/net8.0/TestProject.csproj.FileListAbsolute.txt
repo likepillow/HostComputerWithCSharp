@@ -17,4 +17,4 @@ D:\M2023\OneDrive\文档\VSCode\CsharpProjects\TestProject\bin\Debug\net8.0\Micr
 D:\M2023\OneDrive\文档\VSCode\CsharpProjects\TestProject\bin\Debug\net8.0\System.Drawing.Common.dll
 D:\M2023\OneDrive\文档\VSCode\CsharpProjects\TestProject\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
 D:\M2023\OneDrive\文档\VSCode\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.csproj.AssemblyReference.cache
-D:\M2023\OneDrive\文档\VSCode\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.csproj.CopyComplete
+d:\M2023\OneDrive\文档\VSCode\CsharpProjects\TestProject\obj\Debug\net8.0\TestProj.121896E9.Up2Date

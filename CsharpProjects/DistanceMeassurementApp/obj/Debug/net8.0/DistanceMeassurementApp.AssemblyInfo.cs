@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DistanceMeassurementApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6f132fdb7f5ae4e53a0dd95d965bd9717c52828d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d1134f08578a69afea0449fc3c032b0241164847")]
 [assembly: System.Reflection.AssemblyProductAttribute("DistanceMeassurementApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DistanceMeassurementApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
